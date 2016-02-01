@@ -25,6 +25,8 @@ shinyUI(fluidPage(
       p("$$BMI = 703 \\times \\frac{weight}{height^2}$$"),
       p("Where weight is in pounds and height is in inches."),
       p("Choose your weight in pounds and weight in inches on the sliders on the left in order to calculate your BMI."),
+      h3("Code"),
+      p("The code for this application can be found at: https://github.com/vecano/bmi-application/"),
       h3("Your BMI is:"),
       verbatimTextOutput("bmi"),
       h3("BMI Categories:"),
