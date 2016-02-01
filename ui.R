@@ -24,7 +24,7 @@ shinyUI(fluidPage(
       p("The body mass index (BMI) is a value derived from the mass (weight) and height of an individual. The BMI is defined as the body mass divided by the square of the body height:"),
       p("$$BMI = 703 \\times \\frac{weight}{height^2}$$"),
       p("Where weight is in pounds and height is in inches."),
-      p("Choose your weight in pounds and weight in inches on the sliders on the left in order to calculate your BMI."),
+      p("Choose your weight in pounds and height in inches on the sliders on the left in order to calculate your BMI."),
       h3("Code"),
       p("The code for this application can be found at: https://github.com/vecano/bmi-application/"),
       h3("Your BMI is:"),
