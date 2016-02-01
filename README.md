@@ -1,5 +1,5 @@
 # Running the Application locally
 
-  runApp()
+    runApp()
 
 From inside this directory while running `R`.
